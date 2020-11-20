@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../../Downloads/glightbox-master (1)/dist/css"
+	},
+	{
+		"path": "../../../../Downloads/glightbox-master (1)/dist/js"
+	},
+	{
+		"path": "../../../../Downloads/fontawesome-free-5.15.1-web/webfonts"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "julesahern.github.io"
+  }
+}
