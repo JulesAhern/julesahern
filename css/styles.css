@@ -387,6 +387,10 @@ video {
     font-size: 3rem;
     line-height: 3rem;
   }
+  .shop-page p {
+    font-size: 2rem;
+    line-height: 2rem;
+  }
   .shop-page .text-box {
     max-width: 80ch;
     margin: 0 auto;
